@@ -1,0 +1,254 @@
+Continent_Code	Country_Name	Country_Code
+AS	Afghanistan, Islamic Republic of	AF
+EU	Albania, Republic of	AL
+AN	Antarctica (the territory South of 60 deg S)	AQ
+AF	Algeria, People's Democratic Republic of	DZ
+OC	American Samoa	AS
+EU	Andorra, Principality of	AD
+AF	Angola, Republic of	AO
+NA	Antigua and Barbuda	AG
+AS	Azerbaijan, Republic of	AZ
+SA	Argentina, Argentine Republic	AR
+OC	Australia, Commonwealth of	AU
+EU	Austria, Republic of	AT
+NA	Bahamas, Commonwealth of the	BS
+AS	Bahrain, Kingdom of	BH
+AS	Bangladesh, People's Republic of	BD
+AS	Armenia, Republic of	AM
+NA	Barbados	BB
+EU	Belgium, Kingdom of	BE
+NA	Bermuda	BM
+AS	Bhutan, Kingdom of	BT
+SA	Bolivia, Republic of	BO
+EU	Bosnia and Herzegovina	BA
+AF	Botswana, Republic of	BW
+AN	Bouvet Island (Bouvetoya)	BV
+SA	Brazil, Federative Republic of	BR
+NA	Belize	BZ
+AS	British Indian Ocean Territory (Chagos Archipelago)	IO
+OC	Solomon Islands	SB
+NA	British Virgin Islands	VG
+AS	Brunei Darussalam	BN
+EU	Bulgaria, Republic of	BG
+AS	Myanmar, Union of	MM
+AF	Burundi, Republic of	BI
+EU	Belarus, Republic of	BY
+AS	Cambodia, Kingdom of	KH
+AF	Cameroon, Republic of	CM
+NA	Canada	CA
+AF	Cape Verde, Republic of	CV
+NA	Cayman Islands	KY
+AF	Central African Republic	CF
+AS	Sri Lanka, Democratic Socialist Republic of	LK
+AF	Chad, Republic of	TD
+SA	Chile, Republic of	CL
+AS	China, People's Republic of	CN
+AS	Taiwan	TW
+AS	Christmas Island	CX
+AS	Cocos (Keeling) Islands	CC
+SA	Colombia, Republic of	CO
+AF	Comoros, Union of the	KM
+AF	Mayotte	YT
+AF	Congo, Republic of the	CG
+AF	Congo, Democratic Republic of the	CD
+OC	Cook Islands	CK
+NA	Costa Rica, Republic of	CR
+EU	Croatia, Republic of	HR
+NA	Cuba, Republic of	CU
+EU	Cyprus, Republic of	CY
+EU	Czech Republic	CZ
+AF	Benin, Republic of	BJ
+EU	Denmark, Kingdom of	DK
+NA	Dominica, Commonwealth of	DM
+NA	Dominican Republic	DO
+SA	Ecuador, Republic of	EC
+NA	El Salvador, Republic of	SV
+AF	Equatorial Guinea, Republic of	GQ
+AF	Ethiopia, Federal Democratic Republic of	ET
+AF	Eritrea, State of	ER
+EU	Estonia, Republic of	EE
+EU	Faroe Islands	FO
+SA	Falkland Islands (Malvinas)	FK
+AN	South Georgia and the South Sandwich Islands	GS
+OC	Fiji, Republic of the Fiji Islands	FJ
+EU	Finland, Republic of	FI
+EU	Ãƒâ€¦land Islands	AX
+EU	France, French Republic	FR
+SA	French Guiana	GF
+OC	French Polynesia	PF
+AN	French Southern Territories	TF
+AF	Djibouti, Republic of	DJ
+AF	Gabon, Gabonese Republic	GA
+EU	Georgia	GE
+AF	Gambia, Republic of the	GM
+AS	Palestinian Territory, Occupied	PS
+EU	Germany, Federal Republic of	DE
+AF	Ghana, Republic of	GH
+EU	Gibraltar	GI
+OC	Kiribati, Republic of	KI
+EU	Greece, Hellenic Republic	GR
+NA	Greenland	GL
+NA	Grenada	GD
+NA	Guadeloupe	GP
+OC	Guam	GU
+NA	Guatemala, Republic of	GT
+AF	Guinea, Republic of	GN
+SA	Guyana, Co-operative Republic of	GY
+NA	Haiti, Republic of	HT
+AN	Heard Island and McDonald Islands	HM
+EU	Holy See (Vatican City State)	VA
+NA	Honduras, Republic of	HN
+AS	Hong Kong, Special Administrative Region of China	HK
+EU	Hungary, Republic of	HU
+EU	Iceland, Republic of	IS
+AS	India, Republic of	IN
+AS	Indonesia, Republic of	ID
+AS	Iran, Islamic Republic of	IR
+AS	Iraq, Republic of	IQ
+EU	Ireland	IE
+AS	Israel, State of	IL
+EU	Italy, Italian Republic	IT
+AF	Cote d'Ivoire, Republic of	CI
+NA	Jamaica	JM
+AS	Japan	JP
+EU	Kazakhstan, Republic of	KZ
+AS	Jordan, Hashemite Kingdom of	JO
+AF	Kenya, Republic of	KE
+AS	Korea, Democratic People's Republic of	KP
+AS	Korea, Republic of	KR
+AS	Kuwait, State of	KW
+AS	Kyrgyz Republic	KG
+AS	Lao People's Democratic Republic	LA
+AS	Lebanon, Lebanese Republic	LB
+AF	Lesotho, Kingdom of	LS
+EU	Latvia, Republic of	LV
+AF	Liberia, Republic of	LR
+AF	Libyan Arab Jamahiriya	LY
+EU	Liechtenstein, Principality of	LI
+EU	Lithuania, Republic of	LT
+EU	Luxembourg, Grand Duchy of	LU
+AS	Macao, Special Administrative Region of China	MO
+AF	Madagascar, Republic of	MG
+AF	Malawi, Republic of	MW
+AS	Malaysia	MY
+AS	Maldives, Republic of	MV
+AF	Mali, Republic of	ML
+EU	Malta, Republic of	MT
+NA	Martinique	MQ
+AF	Mauritania, Islamic Republic of	MR
+AF	Mauritius, Republic of	MU
+NA	Mexico, United Mexican States	MX
+EU	Monaco, Principality of	MC
+AS	Mongolia	MN
+EU	Moldova, Republic of	MD
+EU	Montenegro, Republic of	ME
+NA	Montserrat	MS
+AF	Morocco, Kingdom of	MA
+AF	Mozambique, Republic of	MZ
+AS	Oman, Sultanate of	OM
+AF	Namibia, Republic of	NA
+OC	Nauru, Republic of	NR
+AS	Nepal, State of	NP
+EU	Netherlands, Kingdom of the	NL
+NA	Netherlands Antilles	AN
+NA	CuraÃƒÂ§ao	CW
+NA	Aruba	AW
+NA	Sint Maarten (Netherlands)	SX
+NA	Bonaire, Sint Eustatius and Saba	BQ
+OC	New Caledonia	NC
+OC	Vanuatu, Republic of	VU
+OC	New Zealand	NZ
+NA	Nicaragua, Republic of	NI
+AF	Niger, Republic of	NE
+AF	Nigeria, Federal Republic of	NG
+OC	Niue	NU
+OC	Norfolk Island	NF
+EU	Norway, Kingdom of	NO
+OC	Northern Mariana Islands, Commonwealth of the	MP
+OC	Micronesia, Federated States of	FM
+OC	Marshall Islands, Republic of the	MH
+OC	Palau, Republic of	PW
+AS	Pakistan, Islamic Republic of	PK
+NA	Panama, Republic of	PA
+OC	Papua New Guinea, Independent State of	PG
+SA	Paraguay, Republic of	PY
+SA	Peru, Republic of	PE
+AS	Philippines, Republic of the	PH
+OC	Pitcairn Islands	PN
+EU	Poland, Republic of	PL
+EU	Portugal, Portuguese Republic	PT
+AF	Guinea-Bissau, Republic of	GW
+AS	Timor-Leste, Democratic Republic of	TL
+NA	Puerto Rico, Commonwealth of	PR
+AS	Qatar, State of	QA
+AF	Reunion	RE
+EU	Romania	RO
+EU	Russian Federation	RU
+AF	Rwanda, Republic of	RW
+NA	Saint Barthelemy	BL
+AF	Saint Helena	SH
+NA	Saint Kitts and Nevis, Federation of	KN
+NA	Anguilla	AI
+NA	Saint Lucia	LC
+NA	Saint Martin	MF
+NA	Saint Pierre and Miquelon	PM
+NA	Saint Vincent and the Grenadines	VC
+EU	San Marino, Republic of	SM
+AF	Sao Tome and Principe, Democratic Republic of	ST
+AS	Saudi Arabia, Kingdom of	SA
+AF	Senegal, Republic of	SN
+EU	Serbia, Republic of	RS
+AF	Seychelles, Republic of	SC
+AF	Sierra Leone, Republic of	SL
+AS	Singapore, Republic of	SG
+EU	Slovakia (Slovak Republic)	SK
+AS	Vietnam, Socialist Republic of	VN
+EU	Slovenia, Republic of	SI
+AF	Somalia, Somali Republic	SO
+AF	South Africa, Republic of	ZA
+AF	Zimbabwe, Republic of	ZW
+EU	Spain, Kingdom of	ES
+AF	South Sudan	SS
+AF	Western Sahara	EH
+AF	Sudan, Republic of	SD
+SA	Suriname, Republic of	SR
+EU	Svalbard & Jan Mayen Islands	SJ
+AF	Swaziland, Kingdom of	SZ
+EU	Sweden, Kingdom of	SE
+EU	Switzerland, Swiss Confederation	CH
+AS	Syrian Arab Republic	SY
+AS	Tajikistan, Republic of	TJ
+AS	Thailand, Kingdom of	TH
+AF	Togo, Togolese Republic	TG
+OC	Tokelau	TK
+OC	Tonga, Kingdom of	TO
+NA	Trinidad and Tobago, Republic of	TT
+AS	United Arab Emirates	AE
+AF	Tunisia, Tunisian Republic	TN
+EU	Turkey, Republic of	TR
+AS	Turkmenistan	TM
+NA	Turks and Caicos Islands	TC
+OC	Tuvalu	TV
+AF	Uganda, Republic of	UG
+EU	Ukraine	UA
+EU	Macedonia, The Former Yugoslav Republic of	MK
+AF	Egypt, Arab Republic of	EG
+EU	United Kingdom of Great Britain & Northern Ireland	GB
+EU	Guernsey, Bailiwick of	GG
+EU	Jersey, Bailiwick of	JE
+EU	Isle of Man	IM
+AF	Tanzania, United Republic of	TZ
+NA	United States of America	US
+NA	United States Virgin Islands	VI
+AF	Burkina Faso	BF
+SA	Uruguay, Eastern Republic of	UY
+AS	Uzbekistan, Republic of	UZ
+SA	Venezuela, Bolivarian Republic of	VE
+OC	Wallis and Futuna	WF
+OC	Samoa, Independent State of	WS
+AS	Yemen	YE
+AF	Zambia, Republic of	ZM
+OC	Disputed Territory	XX
+AS	Iraq-Saudi Arabia Neutral Zone	XE
+AS	United Nations Neutral Zone	XD
+AS	Spratly Islands	XS
