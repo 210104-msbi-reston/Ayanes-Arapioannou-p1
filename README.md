@@ -14,7 +14,7 @@ There are so many electronic device manufacturers like Apple Inc has a global pr
 
 * Place a manufacturing order by quantiy of product
 * Generates a unique serial number for each product created
-* Place an order from multiple levels of distributions based on the supllier stock
+* Place an order from multiple levels of distributions based on the supplier stock
 * Logged product movement from where it was manufatured to customer purchase.
 * Option to return defetive products back to manufacture.
 
